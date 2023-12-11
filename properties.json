@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Mediterranean Avenue",
+        "color": "Brown",
+        "siteLocation": 2,
+        "rent": 2,
+        "rentWithHouses": [10, 30, 90, 160],
+        "rentWithHotel": 250,
+        "mortgage": 30,
+        "buildCost": 50
+    },
+    {
+        "name": "Baltic Avenue",
+        "color": "Brown",
+        "siteLocation": 4,
+        "rent": 4,
+        "rentWithHouses": [20, 60, 180, 320],
+        "rentWithHotel": 450,
+        "mortgage": 30,
+        "buildCost": 50
+    },
+    {
+        "name": "Oriental Avenue",
+        "color": "Light Blue",
+        "siteLocation": 7,
+        "rent": 6,
+        "rentWithHouses": [30, 90, 270, 400],
+        "rentWithHotel": 550,
+        "mortgage": 50,
+        "buildCost": 50
+    },
+    {
+        "name": "Vermont Avenue",
+        "color": "Light Blue",
+        "siteLocation": 9,
+        "rent": 6,
+        "rentWithHouses": [30, 90, 270, 400],
+        "rentWithHotel": 550,
+        "mortgage": 50,
+        "buildCost": 50
+    },
+    {
+        "name": "Connecticut Avenue",
+        "color": "Light Blue",
+        "siteLocation": 10,
+        "rent": 8,
+        "rentWithHouses": [100, 300, 450, 600],
+        "rentWithHotel": 600,
+        "mortgage": 60,
+        "buildCost": 50
+    },
+    {
+        "name": "St. Charles Place",
+        "color": "Purple",
+        "siteLocation": 12,
+        "rent": 10,
+        "rentWithHouses": [50, 150, 450, 625],
+        "rentWithHotel": 750,
+        "mortgage": 70,
+        "buildCost": 100
+    },
+    {
+        "name": "States Avenue",
+        "color": "Purple",
+        "siteLocation": 14,
+        "rent": 10,
+        "rentWithHouses": [50, 150, 450, 625],
+        "rentWithHotel": 750,
+        "mortgage": 70,
+        "buildCost": 100
+    },
+    {
+        "name": "Virginia Avenue",
+        "color": "Purple",
+        "siteLocation": 15,
+        "rent": 12,
+        "rentWithHouses": [60, 180, 500, 700],
+        "rentWithHotel": 900,
+        "mortgage": 80,
+        "buildCost": 100
+    },
+    {
+        "name": "St. James Place",
+        "color": "Orange",
+        "siteLocation": 17,
+        "rent": 14,
+        "rentWithHouses": [70, 200, 550, 750],
+        "rentWithHotel": 950,
+        "mortgage": 90,
+        "buildCost": 100
+    },
+    {
+        "name": "Tennessee Avenue",
+        "color": "Orange",
+        "siteLocation": 19,
+        "rent": 14,
+        "rentWithHouses": [60, 200, 550, 750],
+        "rentWithHotel": 950,
+        "mortgage": 90,
+        "buildCost": 100
+    },
+    {
+        "name": "New York Avenue",
+        "color": "Orange",
+        "siteLocation": 20,
+        "rent": 16,
+        "rentWithHouses": [80, 220, 600, 800],
+        "rentWithHotel": 1000,
+        "mortgage": 100,
+        "buildCost": 100
+    },
+    {
+        "name": "Kentucky Avenue",
+        "color": "Red",
+        "siteLocation": 22,
+        "rent": 18,
+        "rentWithHouses": [90, 250, 700, 875],
+        "rentWithHotel": 1050,
+        "mortgage": 110,
+        "buildCost": 150
+    },
+    {
+        "name": "Indiana Avenue",
+        "color": "Red",
+        "siteLocation": 24,
+        "rent": 18,
+        "rentWithHouses": [90, 250, 700, 875],
+        "rentWithHotel": 1050,
+        "mortgage": 110,
+        "buildCost": 150
+    },
+    {
+        "name": "Illinois Avenue",
+        "color": "Red",
+        "siteLocation": 25,
+        "rent": 20,
+        "rentWithHouses": [100, 300, 750, 925],
+        "rentWithHotel": 1100,
+        "mortgage": 120,
+        "buildCost": 150
+    },
+    {
+        "name": "Atlantic Avenue",
+        "color": "Yellow",
+        "siteLocation": 27,
+        "rent": 22,
+        "rentWithHouses": [110, 330, 800, 975],
+        "rentWithHotel": 1150,
+        "mortgage": 130,
+        "buildCost": 150
+    },
+    {
+        "name": "Ventnor Avenue",
+        "color": "Yellow",
+        "siteLocation": 28,
+        "rent": 22,
+        "rentWithHouses": [110, 330, 800, 975],
+        "rentWithHotel": 1150,
+        "mortgage": 130,
+        "buildCost": 150
+    },
+    {
+        "name": "Marvin Gardens",
+        "color": "Yellow",
+        "siteLocation": 30,
+        "rent": 24,
+        "rentWithHouses": [120, 360, 850, 1025],
+        "rentWithHotel": 1200,
+        "mortgage": 140,
+        "buildCost": 150
+    },
+    {
+        "name": "Pacific Avenue",
+        "color": "Green",
+        "siteLocation": 32,
+        "rent": 26,
+        "rentWithHouses": [130, 390, 900, 1100],
+        "rentWithHotel": 1275,
+        "mortgage": 140,
+        "buildCost": 200
+    },
+    {
+        "name": "North Carolina Avenue",
+        "color": "Green",
+        "siteLocation": 33,
+        "rent": 26,
+        "rentWithHouses": [130, 390, 900, 1100],
+        "rentWithHotel": 1275,
+        "mortgage": 150,
+        "buildCost": 200
+    },
+    {
+        "name": "Pennsylvania Avenue",
+        "color": "Green",
+        "siteLocation": 35,
+        "rent": 28,
+        "rentWithHouses": [150, 450, 1000, 1200],
+        "rentWithHotel": 1400,
+        "mortgage": 150,
+        "buildCost": 200
+    },
+    {
+        "name": "Park Place",
+        "color": "Blue",
+        "siteLocation": 38,
+        "rent": 35,
+        "rentWithHouses": [175, 500, 1100, 1300],
+        "rentWithHotel": 1500,
+        "mortgage": 175,
+        "buildCost": 200
+    },
+    {
+        "name": "Board Walk",
+        "color": "Blue",
+        "siteLocation": 40,
+        "rent": 50,
+        "rentWithHouses": [200, 600, 1400, 1700],
+        "rentWithHotel": 2000,
+        "mortgage": 200,
+        "buildCost": 200
+    }
+]
